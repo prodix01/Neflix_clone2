@@ -1,9 +1,15 @@
 import React from "react";
 import PropTypes from "prop-types";
+import Loader from "../../Components/Loader";
 
 
 const TvPresenter = ({ popular, topRate, airingToday, loading, error}) =>
-    <h1>{popular}</h1>;
+
+    loading ? (
+        <Loader/>
+    ) : (
+        <h1>222</h1>
+    );
 
 TvPresenter.propTypes = {
     loading: PropTypes.bool.isRequired,

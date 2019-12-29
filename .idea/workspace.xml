@@ -2,24 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e069de18-7436-4b65-8a85-4af02d3c483f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Routes/Detail/DetailContainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Routes/Detail/DetailPresenter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Routes/Detail/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Routes/Home/HomeContainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Routes/Home/HomePresenter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Routes/Home/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Routes/Search/SearchContainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Routes/Search/SearchPresenter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Routes/Search/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Routes/TV/TvContainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Routes/TV/TvPresenter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Routes/TV/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Loader.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Router.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Router.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Routes/Detail.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Routes/Home.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Routes/Search.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Routes/TV.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Routes/Home/HomeContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Routes/Home/HomeContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Routes/Home/HomePresenter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Routes/Home/HomePresenter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Routes/TV/TvContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Routes/TV/TvContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Routes/TV/TvPresenter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Routes/TV/TvPresenter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +76,7 @@
       <updated>1577411999516</updated>
       <workItem from="1577412001581" duration="3878000" />
       <workItem from="1577609549470" duration="79000" />
-      <workItem from="1577609656774" duration="1912000" />
+      <workItem from="1577609656774" duration="3509000" />
     </task>
     <servers />
   </component>
