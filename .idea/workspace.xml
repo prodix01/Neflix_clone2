@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e069de18-7436-4b65-8a85-4af02d3c483f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Components/Loader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Poster.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Section.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Routes/Home/HomeContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Routes/Home/HomeContainer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Routes/Home/HomePresenter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Routes/Home/HomePresenter.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Routes/TV/TvContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Routes/TV/TvContainer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Routes/TV/TvPresenter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Routes/TV/TvPresenter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +44,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -76,7 +75,7 @@
       <updated>1577411999516</updated>
       <workItem from="1577412001581" duration="3878000" />
       <workItem from="1577609549470" duration="79000" />
-      <workItem from="1577609656774" duration="3509000" />
+      <workItem from="1577609656774" duration="7213000" />
     </task>
     <servers />
   </component>
@@ -84,6 +83,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577613781157">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1577613781157" />
     <state x="528" y="267" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1577609626909">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -92,6 +95,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="578" y="278" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1577610230982" />
+    <state x="341" y="164" key="SettingsEditor" timestamp="1577615824955">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1577615824955" />
     <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1577611212796">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
