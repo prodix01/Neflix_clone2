@@ -2,8 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e069de18-7436-4b65-8a85-4af02d3c483f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Routes/Detail/DetailContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Routes/Detail/DetailPresenter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Routes/Detail/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Routes/Home/HomeContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Routes/Home/HomePresenter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Routes/Home/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Routes/Search/SearchContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Routes/Search/SearchPresenter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Routes/Search/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Routes/TV/TvContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Routes/TV/TvPresenter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Routes/TV/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Router.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Routes/Detail.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Routes/Home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Routes/Search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Routes/TV.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +84,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577411999516</updated>
-      <workItem from="1577412001581" duration="3578000" />
+      <workItem from="1577412001581" duration="3878000" />
+      <workItem from="1577609549470" duration="79000" />
+      <workItem from="1577609656774" duration="1912000" />
     </task>
     <servers />
   </component>
@@ -76,9 +94,17 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="578" y="278" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577412162008">
+    <state x="528" y="267" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1577609626909">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="578" y="278" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1577412162008" />
+    <state x="528" y="267" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1577609626909" />
+    <state x="578" y="278" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577610230982">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="578" y="278" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1577610230982" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1577611212796">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1577611212796" />
   </component>
 </project>
