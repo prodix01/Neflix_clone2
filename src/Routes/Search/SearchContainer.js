@@ -44,7 +44,15 @@ class SearchContainer extends Component {
         }
     };
 
+    updateTerm = event => {
+        const {
+            target: {value}
+        } = event;
 
+        this.setState({
+            searchTerm: value
+        });
+    };
 
     render() {
         const {
@@ -66,6 +74,7 @@ class SearchContainer extends Component {
                 tvResults={tvResults}
                 searchTerm={searchTerm}
                 error={error}
+                updateTerm={this.updateTerm}
             />
         );
     }
